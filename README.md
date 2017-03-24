@@ -32,6 +32,20 @@ ___________
 
 ## Backend
 
+- [hollys](https://github.com/nodeframe/hollys) - an application level functional programming Node.js libraries
+- [config-resolver](https://github.com/nodeframe/config-resolver) - An environment-based config resolver with Docker Environment compatible
+- [nfs-seneca](https://github.com/nodeframe/nfs-seneca) - A ES6 [seneca.js](http://senecajs.org/) wrapper for Node.js microservices and ES6 lovers! *
+- [node-slack-es6](https://github.com/nodeframe/node-slack-es6) - A Node.js ES6 slack notification wrapper. It is written all in class with full ES6 and Promises
+- [aws-sns-to-elastic](https://github.com/nodeframe/aws-sns-to-elastic) - A parser for [Amazon SNS](https://aws.amazon.com/sns/) to [Elasticsearch](https://www.elastic.co/).
+- [express-elasticsearch-logger](https://github.com/nodeframe/express-elasticsearch-logger) - An express log capture to elasticsearch (extended lib)
+
 ## Boilerplate
 
+- [generator-nfsb](https://github.com/nodeframe/generator-nfsb) - A unversal boilerplate generator (use this for all boilerplate under this)
+- [babel-lib-boilerplate](https://github.com/nodeframe/babel-lib-boilerplate) - A babel stack Node.js boilerplate (used via [generator-nfsb](https://github.com/nodeframe/generator-nfsb))
+- [nfs-react-component-creator-boilerplate](https://github.com/nodeframe/nfs-react-component-creator-boilerplate) - A react component with storybook boilerplate.
+- [babel-server-boilerplate](https://github.com/nodeframe/babel-server-boilerplate) - A Node.js backend server boilerplate, stacked with [Express.js](https://expressjs.com/) and [Seneca.js](http://senecajs.org/).
+
 ## Docker
+
+-
