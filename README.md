@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+	<img width="400" src="https://cdn.rawgit.com/nodeframe/awesome-nodeframe/20c88a6f/media/NFS-logo.svg" alt="Awesome">
 	<br>
 	<br>
 </h1>
