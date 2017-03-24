@@ -30,6 +30,11 @@ ___________
 
 ## Front-end
 
+- [handsome-react](https://github.com/nodemolar/handsome-react) - An advance *Handsome* (and effective) way to write a [React](https://facebook.github.io/react/)
+- [react-infinite-scroll-nfs](https://github.com/nodemolar/react-infinite-scroll-nfs) - Because infinite scroll is so awesome! so lets scroll infinitely!
+- [react-centered-message-nfs](https://github.com/nodemolar/react-centered-message-nodemolar)
+- [react-comparable-value](https://github.com/nodemolar/react-comparable-value-nodemolar)
+
 ## Backend
 
 - [hollys](https://github.com/nodeframe/hollys) - an application level functional programming Node.js libraries
@@ -48,4 +53,5 @@ ___________
 
 ## Docker
 
--
+- [mysqldump-to-s3](https://github.com/nodeframe/mysqldump-to-s3) - A container for backing up MySql database directly to S3!
+- [mongodb-backup](https://github.com/nodeframe/mongodb-backup) - A container for backing up MongoDB to a file system volume.
