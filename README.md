@@ -43,6 +43,8 @@ ___________
 - [node-slack-es6](https://github.com/nodeframe/node-slack-es6) - A Node.js ES6 slack notification wrapper. It is written all in class with full ES6 and Promises
 - [aws-sns-to-elastic](https://github.com/nodeframe/aws-sns-to-elastic) - A parser for [Amazon SNS](https://aws.amazon.com/sns/) to [Elasticsearch](https://www.elastic.co/).
 - [express-elasticsearch-logger](https://github.com/nodeframe/express-elasticsearch-logger) - An express log capture to elasticsearch (extended lib)
+- [apollo-tools](https://github.com/nodeframe/apollo-tools) - An extension tool of graphql apollo with style
+- [persistent-data](https://github.com/nodeframe/persistent-data) - A simple persistent data with BSON document
 
 ## Boilerplate
 
